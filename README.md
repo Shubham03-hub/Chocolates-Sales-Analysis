@@ -1,5 +1,5 @@
 # Chocolates-Sales-Analysis
-This repository showcases a Chocolates Sales Dashboard built entirely using Python, focusing on data analysis and visual storytelling. The project demonstrates how raw sales data can be transformed into meaningful business insights using Pandas and Matplotlib.
+A Chocolates Sales Dashboard built entirely using Python, focusing on data analysis and visual storytelling. The project demonstrates how raw sales data can be transformed into meaningful business insights using Pandas and Matplotlib.
 What This Dashboard Shows:-
 Monthly Sales & Profit trends
 Category-wise performance comparison
